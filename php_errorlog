@@ -1,0 +1,238 @@
+[27-Mar-2018 23:34:54 CST6CDT] PHP Fatal error:  Class 'AdminModule' not found in /home/webmigra/web_demo/yii-1.1.16/framework/YiiBase.php on line 206
+[27-Mar-2018 23:35:14 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[27-Mar-2018 23:35:19 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[27-Mar-2018 23:39:20 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[27-Mar-2018 23:39:24 CST6CDT] PHP Fatal error:  Class 'ClientUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/ClientUserController.php on line 77
+[27-Mar-2018 23:41:02 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[27-Mar-2018 23:55:38 CST6CDT] PHP Fatal error:  Class 'ClientUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/ClientUserController.php on line 77
+[28-Mar-2018 05:09:10 UTC] PHP Fatal error:  Call to undefined method User::RegisterVerificationMail() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 642
+[28-Mar-2018 00:12:07 CST6CDT] PHP Fatal error:  Class 'ClientUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/ClientUserController.php on line 77
+[28-Mar-2018 00:12:22 CST6CDT] PHP Fatal error:  Class 'KRichTextEditor' not found in /home/webmigra/web_demo/yii-1.1.16/framework/web/CWidgetFactory.php on line 147
+[28-Mar-2018 00:12:29 CST6CDT] PHP Fatal error:  Class 'KRichTextEditor' not found in /home/webmigra/web_demo/yii-1.1.16/framework/web/CWidgetFactory.php on line 147
+[28-Mar-2018 00:12:44 CST6CDT] PHP Fatal error:  Class 'KRichTextEditor' not found in /home/webmigra/web_demo/yii-1.1.16/framework/web/CWidgetFactory.php on line 147
+[28-Mar-2018 00:13:54 CST6CDT] PHP Fatal error:  Class 'KRichTextEditor' not found in /home/webmigra/web_demo/yii-1.1.16/framework/web/CWidgetFactory.php on line 147
+[28-Mar-2018 05:13:54 UTC] PHP Fatal error:  Call to undefined method User::RegisterVerificationMail() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 642
+[28-Mar-2018 00:16:08 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[28-Mar-2018 00:16:24 CST6CDT] PHP Fatal error:  Class 'KRichTextEditor' not found in /home/webmigra/web_demo/yii-1.1.16/framework/web/CWidgetFactory.php on line 147
+[28-Mar-2018 00:19:52 CST6CDT] PHP Fatal error:  Class 'ClientUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/ClientUserController.php on line 77
+[28-Mar-2018 00:30:00 CST6CDT] PHP Fatal error:  Call to undefined method GlobalFunction::srt_replace() in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/CmsPagesController.php on line 25
+[28-Mar-2018 00:41:43 CST6CDT] PHP Fatal error:  Class 'ClientUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/ClientUserController.php on line 77
+[28-Mar-2018 00:43:14 CST6CDT] PHP Fatal error:  Class 'ClientUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/ClientUserController.php on line 77
+[28-Mar-2018 00:43:17 CST6CDT] PHP Fatal error:  Class 'ClientUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/ClientUserController.php on line 77
+[28-Mar-2018 07:14:32 UTC] PHP Fatal error:  Class 'UserDetail' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4733
+[28-Mar-2018 07:15:01 UTC] PHP Fatal error:  Class 'UserDetail' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4733
+[28-Mar-2018 07:15:06 UTC] PHP Fatal error:  Class 'UserDetail' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4733
+[28-Mar-2018 12:36:01 UTC] PHP Fatal error:  Class 'UserDetail' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 6251
+[28-Mar-2018 08:01:33 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 6430
+[29-Mar-2018 05:53:54 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 2007
+[30-Mar-2018 07:58:35 CST6CDT] PHP Fatal error:  Class 'BusinessUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/BusinessUserController.php on line 77
+[31-Mar-2018 01:17:44 CST6CDT] PHP Fatal error:  Cannot redeclare RegistrationController::actionMyOffers() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8412
+[31-Mar-2018 01:22:11 CST6CDT] PHP Fatal error:  Cannot redeclare RegistrationController::actionMyOffers() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8412
+[31-Mar-2018 01:27:37 CST6CDT] PHP Fatal error:  Cannot redeclare RegistrationController::actionMyOffers() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8412
+[31-Mar-2018 01:33:33 CST6CDT] PHP Fatal error:  Cannot redeclare RegistrationController::actionMyOffers() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8412
+[31-Mar-2018 01:36:13 CST6CDT] PHP Fatal error:  Cannot redeclare RegistrationController::actionMyOffers() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8412
+[31-Mar-2018 01:40:14 CST6CDT] PHP Fatal error:  Cannot redeclare RegistrationController::actionMyOffers() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8412
+[31-Mar-2018 05:46:23 CST6CDT] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8381
+[31-Mar-2018 05:46:33 CST6CDT] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8381
+[31-Mar-2018 05:46:41 CST6CDT] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8381
+[03-Apr-2018 23:42:20 CST6CDT] PHP Fatal error:  Class 'BusinessUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/BusinessUserController.php on line 77
+[04-Apr-2018 00:21:27 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 00:21:31 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 00:21:49 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 00:22:11 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 00:22:19 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 00:24:17 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 00:42:21 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 00:42:33 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 00:57:11 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 01:06:29 CST6CDT] PHP Fatal error:  Class 'Attributes' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[04-Apr-2018 01:54:12 CST6CDT] PHP Fatal error:  Class 'BusinessUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/BusinessUserController.php on line 77
+[04-Apr-2018 01:56:45 CST6CDT] PHP Fatal error:  Call to a member function unsetAttributes() on null in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/BusinessUserController.php on line 78
+[04-Apr-2018 01:59:12 CST6CDT] PHP Fatal error:  Class 'BusinessUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/BusinessUserController.php on line 77
+[04-Apr-2018 23:37:56 CST6CDT] PHP Fatal error:  Class 'BusinessUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/BusinessUserController.php on line 77
+[04-Apr-2018 23:38:45 CST6CDT] PHP Fatal error:  Class 'BusinessUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/BusinessUserController.php on line 77
+[07-Apr-2018 06:41:49 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 9147
+[07-Apr-2018 06:45:04 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 9147
+[07-Apr-2018 06:45:38 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 9147
+[07-Apr-2018 06:50:49 CST6CDT] PHP Parse error:  syntax error, unexpected ''seco' (T_ENCAPSED_AND_WHITESPACE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 342
+[07-Apr-2018 12:27:40 UTC] PHP Fatal error:  Call to a member function queryAll() on null in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 9538
+[07-Apr-2018 07:27:59 CST6CDT] PHP Parse error:  syntax error, unexpected ''to' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1360
+[12-Apr-2018 01:41:23 CST6CDT] PHP Fatal error:  Class 'ClientUser' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/ClientUserController.php on line 77
+[12-Apr-2018 07:37:02 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 43
+[12-Apr-2018 07:37:24 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 43
+[12-Apr-2018 07:39:38 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 43
+[13-Apr-2018 00:45:21 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 107
+[13-Apr-2018 02:23:55 CST6CDT] PHP Fatal error:  Cannot redeclare GlobalFunction::get_random_number() in /home/webmigra/web_demo/osnap/protected/components/GlobalFunction.php on line 13
+[13-Apr-2018 02:24:35 CST6CDT] PHP Fatal error:  Cannot redeclare GlobalFunction::get_random_number() in /home/webmigra/web_demo/osnap/protected/components/GlobalFunction.php on line 13
+[13-Apr-2018 05:25:22 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 94
+[13-Apr-2018 05:26:37 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 94
+[13-Apr-2018 06:29:17 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/_form.php on line 148
+[13-Apr-2018 06:37:45 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/_form.php on line 149
+[13-Apr-2018 06:38:14 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/_form.php on line 149
+[13-Apr-2018 06:38:16 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/_form.php on line 149
+[13-Apr-2018 06:38:31 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/_form.php on line 149
+[13-Apr-2018 06:38:34 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/_form.php on line 149
+[14-Apr-2018 00:20:24 CST6CDT] PHP Fatal error:  Call to a member function leftJoin() on null in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 19
+[14-Apr-2018 01:01:53 CST6CDT] PHP Fatal error:  Call to a member function leftJoin() on null in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 19
+[14-Apr-2018 01:02:54 CST6CDT] PHP Fatal error:  Call to a member function leftJoin() on null in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 19
+[14-Apr-2018 01:02:57 CST6CDT] PHP Fatal error:  Call to a member function leftJoin() on null in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 19
+[14-Apr-2018 01:22:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'JOIN' (T_STRING) in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 26
+[14-Apr-2018 01:42:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 48
+[14-Apr-2018 01:42:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 48
+[16-Apr-2018 01:14:24 CST6CDT] PHP Fatal error:  Call to undefined method GlobalFunction::getworkType() in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 41
+[16-Apr-2018 01:26:33 CST6CDT] PHP Fatal error:  Class 'GlobalFunction' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 41
+[16-Apr-2018 01:27:14 CST6CDT] PHP Fatal error:  Class 'GlobalFunction' not found in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 41
+[17-Apr-2018 00:19:16 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 141
+[25-Apr-2018 05:23:55 CST6CDT] PHP Parse error:  syntax error, unexpected ''d' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 558
+[26-Apr-2018 07:49:25 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 188
+[26-Apr-2018 07:49:39 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 189
+[26-Apr-2018 07:49:42 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 189
+[26-Apr-2018 07:50:04 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 188
+[26-Apr-2018 07:50:07 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 188
+[26-Apr-2018 07:50:27 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 188
+[26-Apr-2018 07:50:31 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 188
+[26-Apr-2018 07:50:32 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/view.php on line 188
+[27-Apr-2018 23:55:07 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 18
+[28-Apr-2018 00:31:46 CST6CDT] PHP Fatal error:  Cannot redeclare UserController::actionPostView() in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 46
+[28-Apr-2018 02:04:40 CST6CDT] PHP Fatal error:  Call to undefined function priny_r() in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostbidView.php on line 3
+[28-Apr-2018 02:04:42 CST6CDT] PHP Fatal error:  Call to undefined function priny_r() in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostbidView.php on line 3
+[30-Apr-2018 02:15:27 CST6CDT] PHP Parse error:  syntax error, unexpected '*' in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 38
+[30-Apr-2018 05:13:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 05:36:49 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 104
+[30-Apr-2018 05:57:33 CST6CDT] PHP Parse error:  syntax error, unexpected '$attaimage' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:01:04 CST6CDT] PHP Parse error:  syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING) in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:01:25 CST6CDT] PHP Parse error:  syntax error, unexpected '$attaimage' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:01:47 CST6CDT] PHP Parse error:  syntax error, unexpected '$attaimage' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:03:24 CST6CDT] PHP Fatal error:  Only variables can be passed by reference in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:03:27 CST6CDT] PHP Fatal error:  Only variables can be passed by reference in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:03:31 CST6CDT] PHP Fatal error:  Only variables can be passed by reference in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:03:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$attaimage' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:04:08 CST6CDT] PHP Fatal error:  Only variables can be passed by reference in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:05:41 CST6CDT] PHP Fatal error:  Only variables can be passed by reference in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:05:58 CST6CDT] PHP Fatal error:  Only variables can be passed by reference in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 06:06:01 CST6CDT] PHP Fatal error:  Only variables can be passed by reference in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 100
+[30-Apr-2018 07:14:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 117
+[30-Apr-2018 07:53:33 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 138
+[30-Apr-2018 23:34:24 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 134
+[30-Apr-2018 23:36:42 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 163
+[08-May-2018 01:22:12 CST6CDT] PHP Fatal error:  Class 'GlobalFunction' not found in /home/webmigra/web_demo/yii-1.1.16/framework/base/CComponent.php(612) : eval()'d code on line 1
+[08-May-2018 02:30:06 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 153
+[08-May-2018 04:43:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/webmigra/web_demo/osnap/protected/modules/admin/views/user/PostView.php on line 136
+[30-May-2018 04:51:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 149
+[30-May-2018 04:54:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 150
+[31-May-2018 00:49:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 165
+[31-May-2018 00:49:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/webmigra/web_demo/osnap/protected/modules/admin/controllers/UserController.php on line 165
+[08-Jun-2018 01:17:12 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 374
+[08-Jun-2018 01:18:24 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 374
+[08-Jun-2018 01:18:25 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 374
+[08-Jun-2018 01:18:26 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 374
+[08-Jun-2018 01:19:19 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 374
+[08-Jun-2018 01:19:21 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 374
+[08-Jun-2018 06:20:27 UTC] PHP Fatal error:  Class 'UserDetail' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 11398
+[08-Jun-2018 06:27:25 UTC] PHP Fatal error:  Class 'UserDetail' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/FeedController.php on line 1215
+[08-Jun-2018 06:30:35 UTC] PHP Fatal error:  Class 'Notification' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/FeedController.php on line 32
+[12-Jun-2018 04:20:17 CST6CDT] PHP Warning:  Unterminated comment starting line 1522 in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/NotificationController.php on line 1522
+[12-Jun-2018 04:20:17 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/NotificationController.php on line 1524
+[12-Jun-2018 14:33:19 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/webmigra/web_demo/osnap/protected/models/FeedDetail.php on line 158
+[12-Jun-2018 14:34:28 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/webmigra/web_demo/osnap/protected/models/FeedDetail.php on line 159
+[12-Jun-2018 14:34:31 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/webmigra/web_demo/osnap/protected/models/FeedDetail.php on line 159
+[14-Jun-2018 07:13:34 UTC] PHP Fatal error:  Class 'StripeOAuth' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 11942
+[14-Jun-2018 07:15:25 UTC] PHP Fatal error:  Class 'Stripe_OAuth' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 11942
+[20-Jun-2018 06:33:40 CST6CDT] PHP Parse error:  syntax error, unexpected '"description"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12065
+[20-Jun-2018 12:03:31 UTC] PHP Fatal error:  Class 'Token' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12071
+[20-Jun-2018 07:04:18 CST6CDT] PHP Parse error:  syntax error, unexpected '($value['catego' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8879
+[20-Jun-2018 12:04:21 UTC] PHP Fatal error:  Call to undefined method Stripe::generateToken() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12071
+[30-Jun-2018 06:43:23 UTC] PHP Fatal error:  Class 'Stripe' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12342
+[30-Jun-2018 06:44:52 UTC] PHP Fatal error:  Class 'Stripe' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12342
+[30-Jun-2018 06:45:56 UTC] PHP Fatal error:  Class 'Stripe_Token' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12343
+[30-Jun-2018 06:47:30 UTC] PHP Fatal error:  Class 'Stripe\Stripe_Token' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12343
+[30-Jun-2018 06:55:22 UTC] PHP Fatal error:  Class 'Stripe\Token' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12343
+[30-Jun-2018 01:55:47 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12224
+[30-Jun-2018 06:55:56 UTC] PHP Fatal error:  Call to undefined method Stripe\Stripe::token() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12343
+[30-Jun-2018 06:57:44 UTC] PHP Fatal error:  Class 'Stripe\Token' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12343
+[30-Jun-2018 06:58:45 UTC] PHP Fatal error:  Class 'Stripe\Stripe\Token' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12343
+[30-Jun-2018 06:58:46 UTC] PHP Fatal error:  Class 'Stripe\Stripe\Token' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12343
+[30-Jun-2018 06:59:03 UTC] PHP Fatal error:  Class 'Stripe\Token' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12343
+[30-Jun-2018 07:00:51 UTC] PHP Fatal error:  Class 'Stripe' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12342
+[30-Jun-2018 07:00:53 UTC] PHP Fatal error:  Class 'Stripe' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12342
+[30-Jun-2018 02:04:49 CST6CDT] PHP Parse error:  syntax error, unexpected '"tok_1Cid53H2N8KYROq9QBdiB24y"' (T_CONSTANT_ENCAPSED_STRING) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12355
+[30-Jun-2018 07:05:30 UTC] PHP Fatal error:  Class 'Stripe\Charge' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12360
+[30-Jun-2018 07:06:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'stripe/lib' (include_path='.:/home/webmigra/web_demo/osnap/protected/modules/api/components:/home/webmigra/web_demo/osnap/protected/modules/api/models:/home/webmigra/web_demo/osnap/protected/modules/admin/models:/home/webmigra/web_demo/osnap/protected/extensions/krichtexteditor:/home/webmigra/web_demo/osnap/protected/extensions/slajaxtabs:/home/webmigra/web_demo/osnap/protected/extensions/giix-components:/home/webmigra/web_demo/osnap/protected/components:/home/webmigra/web_demo/osnap/protected/models:/usr/local/php56/pear') in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 5
+[30-Jun-2018 11:12:30 UTC] PHP Fatal error:  Class 'Statusripe\Stripe' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 11566
+[30-Jun-2018 11:12:55 UTC] PHP Fatal error:  Call to undefined method CException::getJsonBody() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 11689
+[30-Jun-2018 11:13:02 UTC] PHP Fatal error:  Call to undefined method CException::getJsonBody() in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 11689
+[30-Jun-2018 06:25:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'n', expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 5953
+[03-Jul-2018 07:10:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4905
+[03-Jul-2018 12:52:27 UTC] PHP Fatal error:  Class 'Stripe\Charge' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12322
+[03-Jul-2018 12:52:41 UTC] PHP Fatal error:  Class 'Stripe\Charge' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12322
+[10-Jul-2018 07:35:26 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/webmigra/web_demo/osnap/protected/models/User.php on line 121
+[10-Jul-2018 07:35:32 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/webmigra/web_demo/osnap/protected/models/User.php on line 121
+[10-Jul-2018 04:26:47 CST6CDT] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 13216
+[23-Jul-2018 00:07:04 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 13444
+[25-Jul-2018 08:23:57 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 326
+[25-Jul-2018 08:28:43 CST6CDT] PHP Parse error:  syntax error, unexpected ''Content-Type: application/' (T_ENCAPSED_AND_WHITESPACE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 5921
+[31-Jul-2018 08:32:03 CST6CDT] PHP Parse error:  syntax error, unexpected '['data']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4571
+[28-Aug-2018 01:39:02 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:42:10 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:42:48 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:45:06 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:45:07 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:45:27 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:45:37 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:46:11 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:54:18 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:54:21 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:54:43 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:54:46 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:55:16 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:55:19 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:55:23 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:55:23 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:55:38 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[28-Aug-2018 01:55:42 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 1182
+[18-Sep-2018 06:45:06 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 10960
+[18-Sep-2018 06:47:50 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4816
+[18-Sep-2018 06:47:55 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4816
+[18-Sep-2018 06:48:09 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4816
+[18-Sep-2018 06:48:12 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 4816
+[20-Sep-2018 07:34:06 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 13505
+[20-Sep-2018 07:34:09 CST6CDT] PHP Warning:  Unterminated comment starting line 14190 in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 14190
+[20-Sep-2018 07:34:09 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 14195
+[22-Sep-2018 02:04:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 10917
+[22-Sep-2018 05:02:24 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 11614
+[22-Sep-2018 05:35:24 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 587
+[22-Sep-2018 05:46:19 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12211
+[22-Sep-2018 05:46:23 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 12211
+[22-Oct-2018 08:18:20 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 10649
+[31-Oct-2018 08:58:57 CST6CDT] PHP Warning:  Unterminated comment starting line 6412 in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 6412
+[31-Oct-2018 08:58:57 CST6CDT] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 6413
+[31-Oct-2018 09:12:32 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 51
+[21-Nov-2018 05:15:33 CST6CDT] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 15587
+[21-Nov-2018 11:15:53 UTC] PHP Fatal error:  Class 'Stripe' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 15577
+[22-Nov-2018 08:43:26 UTC] PHP Fatal error:  Class 'Usercard' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 15638
+[22-Nov-2018 08:45:01 UTC] PHP Fatal error:  Class 'Usercard' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 15638
+[22-Nov-2018 09:29:33 UTC] PHP Fatal error:  Class 'Stripe' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 823
+[22-Nov-2018 03:35:05 CST6CDT] PHP Parse error:  syntax error, unexpected '). "";' in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 8962
+[22-Nov-2018 09:43:19 UTC] PHP Fatal error:  Class 'Stripe\Charges' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 827
+[22-Nov-2018 09:48:03 UTC] PHP Fatal error:  Class 'Stripe\Charges' not found in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 827
+[22-Nov-2018 22:25:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'p', expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 15267
+[22-Nov-2018 23:35:38 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiff' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:36:26 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiff' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:37:03 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiff' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:37:17 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiff' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:37:28 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiff' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:37:36 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiff' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:37:48 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiffs' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:37:50 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiffs' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:37:50 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiffs' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:38:43 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiffs' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:38:43 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiffs' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:38:53 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiffs' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:38:53 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiffs' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:38:59 CST6CDT] PHP Parse error:  syntax error, unexpected '$dateDiffs' (T_VARIABLE) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 368
+[22-Nov-2018 23:42:01 CST6CDT] PHP Parse error:  syntax error, unexpected '"-1"' (T_CONSTANT_ENCAPSED_STRING) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 360
+[22-Nov-2018 23:42:06 CST6CDT] PHP Parse error:  syntax error, unexpected '"-1"' (T_CONSTANT_ENCAPSED_STRING) in /home/webmigra/web_demo/osnap/protected/modules/api/controllers/RegistrationController.php on line 360
+[23-Nov-2018 13:46:11 UTC] Stripe Notice: Undefined property of Stripe\Customer instance: exp_month
+[23-Nov-2018 13:46:11 UTC] Stripe Notice: Undefined property of Stripe\Customer instance: exp_year
+[26-Nov-2018 06:06:35 UTC] Stripe Notice: Undefined property of Stripe\Customer instance: exp_month
+[26-Nov-2018 06:06:35 UTC] Stripe Notice: Undefined property of Stripe\Customer instance: exp_year

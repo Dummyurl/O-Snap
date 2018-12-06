@@ -1,0 +1,96 @@
+2018-11-12 05:08:47
+demo.webmigrates.com/osnap/api/Registration/ClientMyEvent
+{"data":{"id":"119","year":"2018","token":"fIR12JjtWT0MsUnevMxdh9XXweByhtFhx1XilN4c0JbhoIrGLc2D6MV6TLVMRRmmP3xLkMpdRv00AlTvn8NGenygq5AdgiPaYyKZCmZ3CgfKZq77GrXlIdNS","lang_type":"1"}}
+
+2018-11-12 05:08:47
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"fIR12JjtWT0MsUnevMxdh9XXweByhtFhx1XilN4c0JbhoIrGLc2D6MV6TLVMRRmmP3xLkMpdRv00AlTvn8NGenygq5AdgiPaYyKZCmZ3CgfKZq77GrXlIdNS","user_id":"119","lang_type":"1"}}
+
+2018-11-12 05:08:47
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"119","other_id":"119","token":"fIR12JjtWT0MsUnevMxdh9XXweByhtFhx1XilN4c0JbhoIrGLc2D6MV6TLVMRRmmP3xLkMpdRv00AlTvn8NGenygq5AdgiPaYyKZCmZ3CgfKZq77GrXlIdNS","lang_type":"1"}}
+
+2018-11-12 05:08:57
+demo.webmigrates.com/osnap/api/Registration/Logout
+{"data":{"id":"119","token":"fIR12JjtWT0MsUnevMxdh9XXweByhtFhx1XilN4c0JbhoIrGLc2D6MV6TLVMRRmmP3xLkMpdRv00AlTvn8NGenygq5AdgiPaYyKZCmZ3CgfKZq77GrXlIdNS","lang_type":"1"}}
+
+2018-11-12 05:31:36
+demo.webmigrates.com/osnap/api/Registration/ClientMyEvent
+{"data":{"id":"","year":"2018","token":"","lang_type":"1"}}
+
+2018-11-12 06:02:11
+demo.webmigrates.com/osnap/api/Registration/UserRegistration
+{"data":{"username":"abcde","longtitude":"-122.106577","lang_type":"1","country_code":"+1","country":"USA","birth_date":"2000-09-12","latitude":"37.642469","city":"Hayward","last_name":"thakur","osnap_id":"abcde","state":"CA","device_token":"0ecad0e7430aed516d18cdc99df17b87806cffafd6e39968e30c64a5f80853b8","email":"customer8391@yopmail.com","user_type":"1","phone":"8638546858","password":"12345678","device_type":"1","post_code":"94545","address":"25555 Hesperian Blvd, Hayward, CA 94545, USA","first_name":"chfjgbcbh"}}
+
+2018-11-12 06:03:21
+demo.webmigrates.com/osnap/api/Registration/VerifyUser
+{"data":{"email":"customer8391@yopmail.com","username":"abcde","device_type":"1","activation_code":"815941","device_token":"0ecad0e7430aed516d18cdc99df17b87806cffafd6e39968e30c64a5f80853b8","lang_type":"1"}}
+
+2018-11-12 06:03:26
+demo.webmigrates.com/osnap/api/Registration/EditUser
+{"data":{"id":"120","security_code":"1234","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:03:29
+demo.webmigrates.com/osnap/api/Registration/EditUser
+{"data":{"is_agree":"1","id":"120","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:03:30
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","user_id":"120","lang_type":"1"}}
+
+2018-11-12 06:03:30
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"120","other_id":"120","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:03:30
+demo.webmigrates.com/osnap/api/Registration/ClientMyEvent
+{"data":{"id":"120","year":"2018","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:29:09
+demo.webmigrates.com/osnap/api/Registration/ClientMyEvent
+{"data":{"id":"120","year":"2018","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:29:37
+demo.webmigrates.com/osnap/api/Notification/GetNotification
+{"data":{"limit":10,"page":1,"user_id":"120","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:29:37
+demo.webmigrates.com/osnap/api/Notification/ClearBase
+{"data":{"token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","user_id":"120","lang_type":"1"}}
+
+2018-11-12 06:29:38
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"120","other_id":"120","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:29:42
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"120","other_id":"120","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:29:42
+demo.webmigrates.com/osnap/api/Registration/ClientMyEvent
+{"data":{"id":"120","year":"2018","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:29:42
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","user_id":"120","lang_type":"1"}}
+
+2018-11-12 06:29:48
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"120","other_id":"120","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:29:48
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","user_id":"120","lang_type":"1"}}
+
+2018-11-12 06:29:48
+demo.webmigrates.com/osnap/api/Registration/ClientMyEvent
+{"data":{"id":"120","year":"2018","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 06:30:06
+demo.webmigrates.com/osnap/api/Registration/Logout
+{"data":{"id":"120","token":"JJAFh20mAx6EHf4Ab1Vo9Ar28otMz1ApMZqgJvKee1gk0C1zeytOw0OBjNj2h3UYoCEBzEASCat0vjHywknzY2AYLMDJUhEHh2TpTx9TvrHyyECgGCixPmUT","lang_type":"1"}}
+
+2018-11-12 07:30:25
+demo.webmigrates.com/osnap/api/Registration/ClientMyEvent
+{"data":{"id":"","year":"2018","token":"","lang_type":"1"}}
+

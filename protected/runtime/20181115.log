@@ -1,0 +1,36 @@
+2018-11-15 23:24:49
+demo.webmigrates.com/osnap/api/Registration/CheckLogin
+{"data":{"username":"valbus44","lang_type":"1","password":"vvvvvvvv","device_token":"121212","device_type":"1"}}
+
+2018-11-15 23:24:57
+demo.webmigrates.com/osnap/api/Registration/CheckLogin
+{"data":{"username":"valbus44","lang_type":"1","password":"vvvvvv","device_token":"121212","device_type":"1"}}
+
+2018-11-15 23:25:00
+demo.webmigrates.com/osnap/api/Registration/BusinessMyEvent
+{"data":{"id":"3","year":"2018","token":"wX2HnSfVJyE9vhO90SBN6xt57WJboeyZMWsQ8g5Teogu7VT0sQx58z2pW5HaQJavxq88nk6FEDeoYaprYj3MjAI7pfS5xiFcbZglDOFSxENAnNAEP7H8jFP9","lang_type":"1"}}
+
+2018-11-15 23:25:00
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"wX2HnSfVJyE9vhO90SBN6xt57WJboeyZMWsQ8g5Teogu7VT0sQx58z2pW5HaQJavxq88nk6FEDeoYaprYj3MjAI7pfS5xiFcbZglDOFSxENAnNAEP7H8jFP9","user_id":"3","lang_type":"1"}}
+
+2018-11-15 23:25:00
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"3","other_id":"3","token":"wX2HnSfVJyE9vhO90SBN6xt57WJboeyZMWsQ8g5Teogu7VT0sQx58z2pW5HaQJavxq88nk6FEDeoYaprYj3MjAI7pfS5xiFcbZglDOFSxENAnNAEP7H8jFP9","lang_type":"1"}}
+
+2018-11-15 23:25:24
+demo.webmigrates.com/osnap/api/Registration/SearchJob
+{"data":{"keyword":"","id":"3","token":"wX2HnSfVJyE9vhO90SBN6xt57WJboeyZMWsQ8g5Teogu7VT0sQx58z2pW5HaQJavxq88nk6FEDeoYaprYj3MjAI7pfS5xiFcbZglDOFSxENAnNAEP7H8jFP9","lang_type":"1"}}
+
+2018-11-15 23:25:25
+demo.webmigrates.com/osnap/api/Registration/SearchJob
+{"data":{"keyword":"","id":"3","token":"wX2HnSfVJyE9vhO90SBN6xt57WJboeyZMWsQ8g5Teogu7VT0sQx58z2pW5HaQJavxq88nk6FEDeoYaprYj3MjAI7pfS5xiFcbZglDOFSxENAnNAEP7H8jFP9","lang_type":"1"}}
+
+2018-11-15 23:25:34
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"wX2HnSfVJyE9vhO90SBN6xt57WJboeyZMWsQ8g5Teogu7VT0sQx58z2pW5HaQJavxq88nk6FEDeoYaprYj3MjAI7pfS5xiFcbZglDOFSxENAnNAEP7H8jFP9","user_id":"3","lang_type":"1"}}
+
+2018-11-15 23:25:34
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"3","other_id":"3","token":"wX2HnSfVJyE9vhO90SBN6xt57WJboeyZMWsQ8g5Teogu7VT0sQx58z2pW5HaQJavxq88nk6FEDeoYaprYj3MjAI7pfS5xiFcbZglDOFSxENAnNAEP7H8jFP9","lang_type":"1"}}
+

@@ -1,0 +1,48 @@
+2018-11-14 01:12:48
+demo.webmigrates.com/osnap/api/Registration/BusinessMyEvent
+{"data":{"id":"122","year":"2018","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:12:48
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","user_id":"122","lang_type":"1"}}
+
+2018-11-14 01:12:48
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"122","other_id":"122","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:12:53
+demo.webmigrates.com/osnap/api/Registration/BusinessMyEvent
+{"data":{"id":"122","year":"2018","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:12:53
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"122","other_id":"122","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:12:53
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","user_id":"122","lang_type":"1"}}
+
+2018-11-14 01:13:51
+demo.webmigrates.com/osnap/api/General/GetEducation
+{"data":{"id":"122","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:13:59
+demo.webmigrates.com/osnap/api/General/GetCategory
+{"data":{"id":"122","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:14:32
+demo.webmigrates.com/osnap/api/Registration/AddUpdateLicenses
+{"data":{"licenses":[{"year":"2016","name":"fyfu","month":"3","month_name":"Mar"}],"id":"122","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:15:51
+demo.webmigrates.com/osnap/api/Registration/AddUpdateLicenses
+{"data":{"licenses":[{"ul_id":"57","name":"fyfu","month":"3","year":"2016"},{"year":"2016","name":"ghh","month":"2","month_name":"Feb"}],"id":"122","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:16:32
+demo.webmigrates.com/osnap/api/General/GetEducation
+{"data":{"id":"122","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+
+2018-11-14 01:19:24
+demo.webmigrates.com/osnap/api/General/GetEducation
+{"data":{"id":"122","token":"mbxkKradiOv4P57sfN1oHIf87Fyo5LrSseh22KZO7FrEAQQHH5EqnAg92h67RyMtPRO60k8iiNmGIIeIbW0vKfa5UaQinbdjaLdurwKLAO4tee2Y6xlNJWmW","lang_type":"1"}}
+

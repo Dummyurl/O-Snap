@@ -1,0 +1,16 @@
+2018-11-08 23:41:47
+demo.webmigrates.com/osnap/api/Registration/ClientMyEvent
+{"data":{"id":"110","year":"2018","token":"RLGvGCapvLY6OQ5SkKEmPwOTKE4vOe4wcgTgknsK4L5ddSpF7oo7OFPLswrlSyRKgQGkH16M6YKmi7koPFNVpjFS07TIZuV8FHfDsTxg6SAYmpLotMw8gJnv","lang_type":"1"}}
+
+2018-11-08 23:41:47
+demo.webmigrates.com/osnap/api/Notification/CountBase
+{"data":{"token":"RLGvGCapvLY6OQ5SkKEmPwOTKE4vOe4wcgTgknsK4L5ddSpF7oo7OFPLswrlSyRKgQGkH16M6YKmi7koPFNVpjFS07TIZuV8FHfDsTxg6SAYmpLotMw8gJnv","user_id":"110","lang_type":"1"}}
+
+2018-11-08 23:41:47
+demo.webmigrates.com/osnap/api/Registration/UserDetail
+{"data":{"id":"110","other_id":"110","token":"RLGvGCapvLY6OQ5SkKEmPwOTKE4vOe4wcgTgknsK4L5ddSpF7oo7OFPLswrlSyRKgQGkH16M6YKmi7koPFNVpjFS07TIZuV8FHfDsTxg6SAYmpLotMw8gJnv","lang_type":"1"}}
+
+2018-11-08 23:41:51
+demo.webmigrates.com/osnap/api/Registration/Logout
+{"data":{"id":"110","token":"RLGvGCapvLY6OQ5SkKEmPwOTKE4vOe4wcgTgknsK4L5ddSpF7oo7OFPLswrlSyRKgQGkH16M6YKmi7koPFNVpjFS07TIZuV8FHfDsTxg6SAYmpLotMw8gJnv","lang_type":"1"}}
+
